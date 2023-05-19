@@ -1,0 +1,3570 @@
+{
+  "stationnements": {
+    "type": "FeatureCollection",
+    "name": "stationnements_h_2022_2023",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 58,
+          "ARRONDISSEMENT": "Ahunstic-Cartierville",
+          "BOROUGH": "Ahunstic-Cartierville",
+          "NBR_PLA": 22,
+          "X": 292433.0,
+          "Y": 5046689.3074128004,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Fleury près de la rue Chambord (#335)",
+          "LOCATION": "Rue Fleury near Chambord St. (parking #335)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Section horaire",
+          "NOTE_EN": "Hourly spaces",
+          "TYPE_PAY": 0,
+          "Latitude": 45.560005,
+          "Longitude": -73.658415
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.658414820180212,
+            45.560005231514836
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 91,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 298302.08,
+          "Y": 5051493.88,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Lucie-Bruneau - 7051 av. de l'Alsace",
+          "LOCATION": "Lucie-Bruneau Park - 7051 de l'Alsace Ave",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.603318,
+          "Longitude": -73.583299
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.583298990087542,
+            45.603317715290039
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 92,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 299399.1,
+          "Y": 5051468.32,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc André-Laurendeau - 8361 av. André-Laurendeau (accès par le boul.du Haut-Anjou)",
+          "LOCATION": "André-Laurendeau Park - 8361 André-Laurendeau Ave (entrance by du Haut-Anjou Blvd)",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.603097,
+          "Longitude": -73.569236
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.569235655617334,
+            45.603097108223942
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 93,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 300250.57,
+          "Y": 5051329.9,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Bureau d'arrondissement - 7701, boul.Louis-H.Lafontaine",
+          "LOCATION": "City Hall - 7701 Louis-H.Lafontaine Blvd",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.601858,
+          "Longitude": -73.558319
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.558319138030726,
+            45.60185766169392
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 94,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 301533.46,
+          "Y": 5051272.16,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Chénier - 8200, av. Chénier",
+          "LOCATION": "Chénier Arena - 8200 Chénier Ave",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.601345,
+          "Longitude": -73.541873
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.541873391371666,
+            45.601345313086689
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 95,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 301198.05,
+          "Y": 5052359.1,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Chaumont - 8750, av. Chaumont",
+          "LOCATION": "Chaumont Arena - 8750 Chaumont Ave",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.611124,
+          "Longitude": -73.546181
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.546180995988493,
+            45.611124229357642
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 96,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 300800.53,
+          "Y": 5052949.18,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Édifice Roger-Rousseau - 7501, av. Rondeau",
+          "LOCATION": "Roger-Rousseau building- 7501 Rondeau Ave",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.616432,
+          "Longitude": -73.551282
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.551282480718299,
+            45.616431743605148
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 97,
+          "ARRONDISSEMENT": "Anjou",
+          "BOROUGH": "Anjou",
+          "NBR_PLA": 20,
+          "X": 299856.59,
+          "Y": 5051834.3,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Édifice Centre Communautaire Anjou - 7800, boul. Métropolitain Est",
+          "LOCATION": "Centre Communautaire Anjou - 7800 Métropolitain Blvd East",
+          "HEURES": "06:00 à 18:00",
+          "HOURS": "6:00 am to 6:00 pm",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.606394,
+          "Longitude": -73.563375
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.563374674422022,
+            45.606393696604584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 157,
+          "ARRONDISSEMENT": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+          "BOROUGH": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+          "NBR_PLA": 30,
+          "X": 293502.64,
+          "Y": 5039476.17,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Bill-Durnan, 4988, rue Vézina",
+          "LOCATION": "Bill-Durnan Arena - 4988 Vézina St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.495117,
+          "Longitude": -73.644547
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.644546998676788,
+            45.495116983272389
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 158,
+          "ARRONDISSEMENT": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+          "BOROUGH": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+          "NBR_PLA": 20,
+          "X": 293997.88,
+          "Y": 5036859.85,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Doug-Harvey, 4985, avenue West Hill",
+          "LOCATION": "Doug-Harvey Arena - 4985 West Hill Ave",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.471582,
+          "Longitude": -73.638153
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.638152986845029,
+            45.471582039712267
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 61,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 11,
+          "X": 287917.0,
+          "Y": 5033177.0628870996,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Summerlea - Boul Saint-Joseph (entre 52e avenue et 54e avenue)",
+          "LOCATION": "Summerlea Park - St-Joseph Blvd (between 52th Ave and 54th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.438322,
+          "Longitude": -73.715797
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.715797105300823,
+            45.438322157796684
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 62,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 80,
+          "X": 289663.0,
+          "Y": 5032556.4229680998,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Saint-Louis - Boulevard Saint-Joseph (entre 32e avenue et 34e avenue)",
+          "LOCATION": "St-Louis Park - St-Joseph Blvd (between 32th Ave and 34th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.432777,
+          "Longitude": -73.693461
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.693460929661455,
+            45.432777320185906
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 63,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 18,
+          "X": 289827.0,
+          "Y": 5032702.6070812996,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "À l'est de la 32e av, entre la rue Notre-Dame et le boulevard Saint-Joseph",
+          "LOCATION": "East of 32th Ave between Notre-Dame St. and Saint-Joseph Blvd",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.434096,
+          "Longitude": -73.691369
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.691369358173176,
+            45.434096287237736
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 64,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 65,
+          "X": 289884.0,
+          "Y": 5032614.1485411003,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "La maison du brasseur",
+          "LOCATION": "La maison du brasseur",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.433302,
+          "Longitude": -73.690638
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.690638167334484,
+            45.433301512142222
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 65,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 21,
+          "X": 290046.0,
+          "Y": 5032684.3053142997,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Boulevard Saint-Joseph (entre 27e avenue et 28e avenue)",
+          "LOCATION": "St-Joseph Blvd (between 27th Ave and 28th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.433936,
+          "Longitude": -73.68857
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.688569794180708,
+            45.433936254047538
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 66,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 26,
+          "X": 290244.0,
+          "Y": 5032688.4957189001,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc des Saules",
+          "LOCATION": "Des Saules Park",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.433978,
+          "Longitude": -73.686039
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.686039308079017,
+            45.433978111019542
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 67,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 32,
+          "X": 290405.0,
+          "Y": 5032573.3646037001,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Club de Canoë de Course, 2105, boulevard Saint-Joseph",
+          "LOCATION": "Club de Canoë de Course, 2105 Saint-Joseph Blvd",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.432945,
+          "Longitude": -73.683978
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.683978221841997,
+            45.432945437270234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 68,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 19,
+          "X": 290655.0,
+          "Y": 5032648.4618539,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Mairie - Boulevard Saint-Joseph (entre 18e avenue et 19e avenue)",
+          "LOCATION": "City Hall - St-Joseph Blvd (between 18th Ave and 19th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.433626,
+          "Longitude": -73.680785
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.680785219758747,
+            45.433626301194096
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 69,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 48,
+          "X": 290687.0,
+          "Y": 5032612.0183354998,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Boulevard Saint-Joseph (entre 17e avenue et 18e avenue)",
+          "LOCATION": "Saint-Joseph Blvd (between 17th Ave and 18th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.433299,
+          "Longitude": -73.680375
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.680375189710773,
+            45.433299010923456
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 70,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 47,
+          "X": 291173.0,
+          "Y": 5032428.4906169996,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Boulevard Saint-Joseph entre la 11e avenue et la 12e avenue",
+          "LOCATION": "Saint-Joseph Blvd between 11th Ave and 12th Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.431657,
+          "Longitude": -73.674159
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.674158679103314,
+            45.431657176404016
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 71,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 142,
+          "X": 291312.0,
+          "Y": 5032078.2968079001,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc René-Lévesque",
+          "LOCATION": "René-Lévesque Park",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.428509,
+          "Longitude": -73.672373
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.672372617701186,
+            45.428508650458802
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 72,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 25,
+          "X": 291789.0,
+          "Y": 5032184.5270638,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Musée Lachine",
+          "LOCATION": "Lachine Museum",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.429474,
+          "Longitude": -73.66628
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.666279532955215,
+            45.429473600847921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 73,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 94,
+          "X": 291723.0,
+          "Y": 5033130.3383761998,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Victoria entre la 6e avenue et la 1ère avenue",
+          "LOCATION": "Victoria St between 6th Ave and 1st Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.437983,
+          "Longitude": -73.667148
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.667148126303431,
+            45.437983254466758
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 74,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 60,
+          "X": 291516.0,
+          "Y": 5032899.4760878002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Notre-Dame (entre 6e avenue et 7e avenue)",
+          "LOCATION": "Notre-Dame St between 6th Ave and 7th Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.435902,
+          "Longitude": -73.669788
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.669787725469149,
+            45.435901938929533
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 75,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 143,
+          "X": 291393.0,
+          "Y": 5033051.4007551996,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Victoria et rue William-McDonald entre la 6e et la 10e avenue",
+          "LOCATION": "Victoria St and William-McDonald St between 6th Ave and 10th Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.437267,
+          "Longitude": -73.671364
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.671363964811334,
+            45.437266684672508
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 76,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 110,
+          "X": 290986.0,
+          "Y": 5032945.5505360002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Victoria et rue William-MacDonald entre la 15e avenue et la 10e avenue",
+          "LOCATION": "Victoria St and William-MacDonald St between 15th Ave and 10th Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.436306,
+          "Longitude": -73.676563
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.676563113026504,
+            45.43630626948341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 77,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 85,
+          "X": 290833.0,
+          "Y": 5032904.0865329001,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Victoria et rue William-MacDonald entre la 17e avenue et la 15e avenue",
+          "LOCATION": "Victoria St and William-MacDonald St between 17th Ave and 15th Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.43593,
+          "Longitude": -73.678517
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.678517490726776,
+            45.43593011644365
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 78,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 55,
+          "X": 291403.0,
+          "Y": 5032711.2679174002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Entre Rue Saint-Louis et rue Notre-Dame (entre 9e avenue et 8e avenue)",
+          "LOCATION": "Between St-Louis St and Notre-Dame St (between 9th Ave and 8th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.434206,
+          "Longitude": -73.671227
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.671226892074969,
+            45.434206192203341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 79,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 63,
+          "X": 291258.0,
+          "Y": 5032726.7094082003,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Entre Rue Saint-Louis et rue Notre-Dame (entre 11e avenue et 10e avenue)",
+          "LOCATION": "Between St-Louis St and Notre-Dame St (between 11th Ave and 10th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.434342,
+          "Longitude": -73.673081
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.673080551574984,
+            45.434342349342437
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 81,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 52,
+          "X": 291101.0,
+          "Y": 5032846.1109357001,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Notre-Dame (entre 13e avenue et 12e avenue)",
+          "LOCATION": "Notre-Dame St (between 13th Ave and 12th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.435414,
+          "Longitude": -73.67509
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.67509048464153,
+            45.435413725359886
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 82,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 20,
+          "X": 291180.0,
+          "Y": 5032838.1801699996,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Notre-Dame (entre 11e avenue et 12e avenue)",
+          "LOCATION": "Notre-Dame St (between 11th Ave and 12th Ave)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.435344,
+          "Longitude": -73.674081
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.674080550361893,
+            45.435343903678366
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 83,
+          "ARRONDISSEMENT": "Lachine",
+          "BOROUGH": "Lachine",
+          "NBR_PLA": 51,
+          "X": 290568.0,
+          "Y": 5033368.3613558002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Pierre Pete Morin",
+          "LOCATION": "Pierre Pete Morin Arena",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.440103,
+          "Longitude": -73.681918
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.681917962669459,
+            45.44010254406173
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 84,
+          "ARRONDISSEMENT": "LaSalle",
+          "BOROUGH": "LaSalle",
+          "NBR_PLA": 63,
+          "X": 297520.0,
+          "Y": 5032138.51,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Chevalier de Colomb - 7710, boulevard LaSalle",
+          "LOCATION": "Chevalier de Colomb - 7710 LaSalle Blvd ",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.429143,
+          "Longitude": -73.593037
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.593037269244391,
+            45.429142652393374
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 86,
+          "ARRONDISSEMENT": "LaSalle",
+          "BOROUGH": "LaSalle",
+          "NBR_PLA": 104,
+          "X": 296216.31,
+          "Y": 5031154.33,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Riverside (rue Raymond et rue Centrale)",
+          "LOCATION": "Riverside Park (Raymond  St and Centrale St)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.420272,
+          "Longitude": -73.609681
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.60968104557459,
+            45.420271686023639
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 87,
+          "ARRONDISSEMENT": "LaSalle",
+          "BOROUGH": "LaSalle",
+          "NBR_PLA": 28,
+          "X": 292301.0,
+          "Y": 5032647.99,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Dollier-de Casson - (rue Beauchamps/rue St-Patrick)",
+          "LOCATION": "Dollier-de Casson Park - (Beauchamps St and St-Patrick St)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.433653,
+          "Longitude": -73.659748
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.659748005136279,
+            45.433653413718105
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 89,
+          "ARRONDISSEMENT": "LaSalle",
+          "BOROUGH": "LaSalle",
+          "NBR_PLA": 192,
+          "X": 295175.94,
+          "Y": 5030917.03,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Jacques-Lemaire - 8681, boulevard Champlain",
+          "LOCATION": "Jacques-Lemaire Arena - 8681 Champlain Blvd",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.418123,
+          "Longitude": -73.62297
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.622970066022759,
+            45.418122793512687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 90,
+          "ARRONDISSEMENT": "LaSalle",
+          "BOROUGH": "LaSalle",
+          "NBR_PLA": 42,
+          "X": 297191.24,
+          "Y": 5032362.35,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "rue Centrale/4e avenue (derrière le #7648, rue Centrale)",
+          "LOCATION": "Centrale St and 4e Ave (behind #7648 Centrale St)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.431153,
+          "Longitude": -73.597242
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.597242223751977,
+            45.431153384512832
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 115,
+          "ARRONDISSEMENT": "LaSalle",
+          "BOROUGH": "LaSalle",
+          "NBR_PLA": 149,
+          "X": 292122.0,
+          "Y": 5032097.0186154004,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Mairie d'arrondissement, 55, av. Dupras",
+          "LOCATION": "City Hall, 55 Dupras Ave",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.428692,
+          "Longitude": -73.662022
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.662021584202108,
+            45.428692270913565
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 44,
+          "ARRONDISSEMENT": "Le Plateau-Mont-Royal",
+          "BOROUGH": "Le Plateau-Mont-Royal",
+          "NBR_PLA": 113,
+          "X": 299665.0,
+          "Y": 5042596.02,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Sherbrooke entre la rue Calixa-Lavallée et le Parc Lafontaine (#139)",
+          "LOCATION": "Sherbrooke St between Calixa-Lavallée St and Parc Lafontaine (#139)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Section horaire",
+          "NOTE_EN": "Hourly spaces",
+          "TYPE_PAY": 0,
+          "Latitude": 45.523263,
+          "Longitude": -73.565734
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.565733840609624,
+            45.523263247311377
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 163,
+          "ARRONDISSEMENT": "Le Plateau-Mont-Royal",
+          "BOROUGH": "Le Plateau-Mont-Royal",
+          "NBR_PLA": 43,
+          "X": 296982.7,
+          "Y": 5043095.87,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Saint-Dominique, entre le rue Saint-Viateur Est et la rue Bernard Est (#270)",
+          "LOCATION": "Saint-Dominique St, between Saint-Viateur St and Bernard St East (#270)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Sauf places réservées",
+          "NOTE_EN": "Except reserved spaces",
+          "TYPE_PAY": 0,
+          "Latitude": 45.527736,
+          "Longitude": -73.600078
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.600078262903949,
+            45.52773616907055
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 24,
+          "ARRONDISSEMENT": "Le Sud-Ouest",
+          "BOROUGH": "Le Sud-Ouest",
+          "NBR_PLA": 735,
+          "X": 296781.0,
+          "Y": 5033939.0164491003,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Parc Angrignon, sur le boul. des Trinitaires au nord du boul. De La Vérendrye à l'angle de la rue Lacroix (#243)",
+          "LOCATION": "Angrignon Park, des Trinitaires Blvd, north of De La Vérendrye Blvd, corner of Lacroix St. (#243)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.445336,
+          "Longitude": -73.602511
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.60251089194054,
+            45.445336462728868
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 60,
+          "ARRONDISSEMENT": "Le Sud-Ouest",
+          "BOROUGH": "Le Sud-Ouest",
+          "NBR_PLA": 221,
+          "X": 297352.35,
+          "Y": 5036323.34,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Complexe Gadbois, accès rue Notre-Dame Ouest",
+          "LOCATION": "Complexe Gadbois, entrance on Notre-Dame St. West",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.466798,
+          "Longitude": -73.595243
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.595243160452512,
+            45.466798100659737
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 4,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 400,
+          "X": 300900.0,
+          "Y": 5047006.0179893002,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "3000, rue Viau (P6). Planétarium Rio Tinto Alcan",
+          "LOCATION": "3000, Viau St. (P6). Planétarium Rio Tinto Alcan",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.562954,
+          "Longitude": -73.54996
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.549959578398656,
+            45.562954015314752
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 147,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 41,
+          "X": 300756.97,
+          "Y": 5044587.48,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Francis-Bouillon - 3175, rue de Rouen",
+          "LOCATION": "Francis-Bouillon Arena - 3175 de Rouen St",
+          "HEURES": "21:00 à 08:00",
+          "HOURS": "9:00 pm to 8:00 am",
+          "NOTE_FR": "28 places situées sur le côté ont un maximum de 2 h, du lundi au vendredi entre 8 h et 16 h",
+          "NOTE_EN": "28 spaces (on the side) have a maximum of 2 hours from Monday to Friday between 8:00 am to 4:00 pm",
+          "TYPE_PAY": 0,
+          "Latitude": 45.54119,
+          "Longitude": -73.551772
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.551771828018886,
+            45.541190350412194
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 148,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 25,
+          "X": 301876.75,
+          "Y": 5049185.15,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Saint-Donat - 6750, rue de Marseille",
+          "LOCATION": "Saint-Donat Arena - 6750 de Marseille St",
+          "HEURES": "21:00 à 08:00",
+          "HOURS": "9:00 pm to 8:00 am",
+          "NOTE_FR": "Accès par l'avenue Parkville",
+          "NOTE_EN": "Entrance by Parkville Ave",
+          "TYPE_PAY": 0,
+          "Latitude": 45.582567,
+          "Longitude": -73.53746
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.537460302941881,
+            45.582567325000817
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 149,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 35,
+          "X": 303554.41,
+          "Y": 5051319.1,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Clément-Jetté - 8780, avenue Dubuisson",
+          "LOCATION": "Clément-Jetté Arena - 8780 Dubuisson Ave",
+          "HEURES": "21:00 à 08:00",
+          "HOURS": "9:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.601774,
+          "Longitude": -73.515967
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.515967193092891,
+            45.60177425034432
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 151,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 45,
+          "X": 303594.03,
+          "Y": 5051319.88,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Piscine Annie-Pelletier - 8850, avenue Dubuisson",
+          "LOCATION": "Piscine Annie-Pelletier - 8850 Dubuisson Ave",
+          "HEURES": "21:00 à 08:00",
+          "HOURS": "9:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.601781,
+          "Longitude": -73.515459
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.51545930705835,
+            45.60178133885578
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 152,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 2,
+          "X": 301789.36,
+          "Y": 5045939.52,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Bain Morgan - 1875, avenue Morgan",
+          "LOCATION": "Bain Morgan - 1875 Morgan Ave",
+          "HEURES": "21:00 à 08:00",
+          "HOURS": "9:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.553362,
+          "Longitude": -73.53856
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.538560183326837,
+            45.553361717102618
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 153,
+          "ARRONDISSEMENT": "Mercier - Hochelaga-Maisonneuve",
+          "BOROUGH": "Mercier - Hochelaga-Maisonneuve",
+          "NBR_PLA": 18,
+          "X": 301227.98,
+          "Y": 5044734.39,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Piscine Pierre-Lorange - 1870, rue Davidson",
+          "LOCATION": "Piscine Pierre-Lorange - 1870 Davidson St",
+          "HEURES": "21:00 à 08:00",
+          "HOURS": "9:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.542515,
+          "Longitude": -73.545742
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.545741522432152,
+            45.542514874599462
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 100,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 60,
+          "X": 294068.15,
+          "Y": 5050460.59,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Mairie d'arrondissement, 4243, rue de Charleroi",
+          "LOCATION": "City Hall, 4243 de Charleroi St",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.593967,
+          "Longitude": -73.637552
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.637552295445303,
+            45.593967441160416
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 101,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 18,
+          "X": 294021.83,
+          "Y": 5050373.81,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue de Charleroi (côté sud), entre l'avenue Saint-Julien et l'avenue Hébert",
+          "LOCATION": "de Charleroi St (South side), between Saint-Julien Ave and Hébert Ave",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.593186,
+          "Longitude": -73.638144
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.63814407068935,
+            45.593185855695054
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 102,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 130,
+          "X": 293964.71,
+          "Y": 5050600.0,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Stationnement Aréna Garon, 11212 rue Garon",
+          "LOCATION": "Garon Arena parking lot, 11212 Garon St",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.59522,
+          "Longitude": -73.638881
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.638881197205691,
+            45.595220284373681
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 103,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 18,
+          "X": 294229.12,
+          "Y": 5051013.84,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Paul-Sauvé, entrée sur la rue de Bayonne",
+          "LOCATION": "Paul-Sauvé Park, entrance by de Bayonne St",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.598948,
+          "Longitude": -73.635501
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.635501097226097,
+            45.59894819257935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 104,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 100,
+          "X": 295210.21,
+          "Y": 5051332.65,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Centre de loisirs de Montréal-Nord, 11121, avenue Salk",
+          "LOCATION": "Centre de loisirs de Montréal-Nord, 11121 Salk Ave",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.601831,
+          "Longitude": -73.622931
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.622931450696598,
+            45.60183115067592
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 105,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 59,
+          "X": 295332.96,
+          "Y": 5052904.01,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Maison culturelle et communautaire, 12004, boulevard Rolland (stat. arrière)",
+          "LOCATION": "Maison culturelle et communautaire, 12004 Rolland Blvd (rear parking)",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.615972,
+          "Longitude": -73.621388
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.621388418378643,
+            45.615972311498666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 106,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 28,
+          "X": 295053.38,
+          "Y": 5051634.52,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Bibliothèque Henri-Bourassa, 5400 boulevard Henri-Bourassa Est",
+          "LOCATION": "Henri-Bourassa library, 5400 Henri-Bourassa Blvd East",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.604545,
+          "Longitude": -73.624948
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.624947878193339,
+            45.604545271476006
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 107,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 28,
+          "X": 294117.3,
+          "Y": 5049224.14,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Fleury, 3700 rue Fleury Est (stat. arrière)",
+          "LOCATION": "Fleury Arena, 3700 Fleury St East (rear parking)",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.582842,
+          "Longitude": -73.636895
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.636895283778969,
+            45.58284228766
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 108,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 20,
+          "X": 293887.94,
+          "Y": 5048744.76,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue de Mont-Joli (côté nord), entre avenue Audoin et avenue Lausanne",
+          "LOCATION": "de Mont-Joli St (North side), between Audoin Ave and Lausanne Ave",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.578525,
+          "Longitude": -73.639824
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.639823740462262,
+            45.578525132002895
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 110,
+          "ARRONDISSEMENT": "Montréal-Nord",
+          "BOROUGH": "Montréal-Nord",
+          "NBR_PLA": 10,
+          "X": 293678.17,
+          "Y": 5049112.62,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Ottawa, 10400, avenue de Belleville",
+          "LOCATION": "Ottawa Park, 10400 de Belleville Ave",
+          "HEURES": "17:00 à 07:00",
+          "HOURS": "5:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.581832,
+          "Longitude": -73.64252
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.642520033940428,
+            45.581831917842727
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 6,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 10,
+          "X": 296066.0,
+          "Y": 5042596.0222308002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "sud de Van Horne entre Querbes et Épée (stat. nos 6 et 8)",
+          "LOCATION": "South of Van Horne, between Querbes and Épée (parkings #6 and 8)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.523227,
+          "Longitude": -73.611805
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.611805064051666,
+            45.523227465742657
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 7,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 5,
+          "X": 295917.0,
+          "Y": 5042529.0157618001,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Van Horne entre Champagneur et Bloomfield (stat. no 18)",
+          "LOCATION": "North of Van Horne, between Champagneur and Bloomfield (parking # 18)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.522623,
+          "Longitude": -73.613711
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.613711213908957,
+            45.522622633246755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 8,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 9,
+          "X": 296348.0,
+          "Y": 5042413.0145624997,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Bernard entre Épée et Querbes (stat. no 7)",
+          "LOCATION": "North of Bernard, between Épée and Querbes (parking #7)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.521584,
+          "Longitude": -73.608192
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.608191995706903,
+            45.521584168709161
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 9,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 13,
+          "X": 296314.0,
+          "Y": 5042382.0215704003,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Bernard entre Bloomfield et Épée (stat. no 17)",
+          "LOCATION": "North of Bernard, between Bloomfield and Épée (parking #17)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.521305,
+          "Longitude": -73.608627
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.608626683969945,
+            45.521304868795866
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 10,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 10,
+          "X": 296282.0,
+          "Y": 5042299.0135564003,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Bernard entre Champagneur et Bloomfield (stat. no 10)",
+          "LOCATION": "North of Bernard, between Champagneur and Bloomfield (parking #10)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.520558,
+          "Longitude": -73.609035
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.609034862652891,
+            45.520557540420832
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 11,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 12,
+          "X": 296183.0,
+          "Y": 5042105.014827,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Bernard entre Wiseman et Outremont (stat. no 16)",
+          "LOCATION": "North of Bernard, between Wiseman and Outremont (parking #16)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.518811,
+          "Longitude": -73.610299
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.610298701317433,
+            45.518810648112833
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 12,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 15,
+          "X": 297242.0,
+          "Y": 5041977.0224700999,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Édouard-Charles entre Querbes et Hutchison (stat. no 12)",
+          "LOCATION": "North of Édouard-Charles, between Querbes and Hutchison (parking #12)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.517671,
+          "Longitude": -73.596741
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.596741413162377,
+            45.517671206812153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 13,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 8,
+          "X": 297156.0,
+          "Y": 5042026.0172002995,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de Laurier entre Querbes et Durocher (stat. no 14)",
+          "LOCATION": "North of Laurier, between Querbes et Durocher (parking #14)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.518111,
+          "Longitude": -73.597843
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.597842964402815,
+            45.518111143137048
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 48,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 8,
+          "X": 297177.0,
+          "Y": 5042059.0203865003,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de l'avenue Laurier entre Durocher et Hutchison (stat. no 13)",
+          "LOCATION": "north of Laurier ave, between Durocher and Hutchison (parking #13)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.518408,
+          "Longitude": -73.597575
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.597574678726417,
+            45.518408348697676
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 49,
+          "ARRONDISSEMENT": "Outremont",
+          "BOROUGH": "Outremont",
+          "NBR_PLA": 17,
+          "X": 297104.0,
+          "Y": 5041966.0214080997,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "nord de l'avenue Laurier entre Querbes et Épée (stat. 15)",
+          "LOCATION": "north of Laurier ave between Querbes and Épée (parking #15)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.517571,
+          "Longitude": -73.598508
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.598507619811215,
+            45.517570705347907
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 111,
+          "ARRONDISSEMENT": "Pierrefonds-Roxboro",
+          "BOROUGH": "Pierrefonds-Roxboro",
+          "NBR_PLA": 100,
+          "X": 277447.32,
+          "Y": 5039425.23,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Caserne de pompiers 57, 13795, boulevard de Pierrefonds (stat. arrière)",
+          "LOCATION": "Fire station #57, 13795 de Pierrefonds Blvd (rear parking)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.494214,
+          "Longitude": -73.849965
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.849965383857111,
+            45.494213962914216
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 112,
+          "ARRONDISSEMENT": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "BOROUGH": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "NBR_PLA": 30,
+          "X": 304739.49,
+          "Y": 5056895.94,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Rodrigue-Gilbert, 1515, Boulevard du Tricentenaire",
+          "LOCATION": "Rodrigue-Gilbert Arena – 1515 du Tricentenaire Blvd",
+          "HEURES": "19:00 à 07:00",
+          "HOURS": "7:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.651957,
+          "Longitude": -73.500776
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.500776368908944,
+            45.651957076833945
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 113,
+          "ARRONDISSEMENT": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "BOROUGH": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "NBR_PLA": 12,
+          "X": 298581.6,
+          "Y": 5056749.43,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Centre aquatique de Rivière-des-Prairies-Pointe-aux-Trembles, 12515, boulevard Rodolphe-Forget",
+          "LOCATION": "Centre aquatique de Rivière-des-Prairies-Pointe-aux-Trembles, 12515 Rodolphe-Forget Blvd",
+          "HEURES": "19:00 à 07:00",
+          "HOURS": "7:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.650611,
+          "Longitude": -73.579783
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.579782792930089,
+            45.650610895696531
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 114,
+          "ARRONDISSEMENT": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "BOROUGH": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "NBR_PLA": 10,
+          "X": 305197.86,
+          "Y": 5058730.97,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Bibliothèque de Pointe-aux-Trembles, 14001, rue Notre-Dame Est",
+          "LOCATION": "Pointe-aux-Trembles Library, 14001 Notre-Dame St East",
+          "HEURES": "19:00 à 07:00",
+          "HOURS": "7:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.668469,
+          "Longitude": -73.494894
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.494893787132895,
+            45.668468898538364
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 164,
+          "ARRONDISSEMENT": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "BOROUGH": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "NBR_PLA": 30,
+          "X": 299896.47,
+          "Y": 5058018.89,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Saint-Joseph\n9909, 68e Avenue",
+          "LOCATION": "Saint-Joseph Park\n9909, 68th Ave.",
+          "HEURES": "19:00 à 07:00",
+          "HOURS": "7:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.662044,
+          "Longitude": -73.562926
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.562925662603078,
+            45.66204426375424
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 156,
+          "ARRONDISSEMENT": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "BOROUGH": "Rivière-des-Prairies-Pointe-aux-Trembles",
+          "NBR_PLA": 11,
+          "X": 305401.91,
+          "Y": 5055664.69,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Intersection du boul. Saint-Jean-Baptiste et rue Victoria",
+          "LOCATION": "corner of Saint-Jean-Baptiste Blvd and Victoria St",
+          "HEURES": "19:00 à 07:00",
+          "HOURS": "7:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.640878,
+          "Longitude": -73.492279
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.492278762229503,
+            45.640877780586464
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 25,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 31,
+          "X": 296871.0,
+          "Y": 5044018.0195161002,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Saint-André entre la rue Beaubien et la rue Bellechasse (#303)",
+          "LOCATION": "Saint-André St.  between Beaubien St. and Bellechasse St. (parking #303)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Sauf places réservées\nRestriction de 21h à 7h",
+          "NOTE_EN": "Except reserved spaces\nRestriction from 9:00 pm to 7:00 am",
+          "TYPE_PAY": 0,
+          "Latitude": 45.536033,
+          "Longitude": -73.601523
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.601523189193273,
+            45.536032750297494
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 27,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 27,
+          "X": 298969.07,
+          "Y": 5045528.96,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "8e Avenue entre la rue Dandurand et la rue Masson (#75)",
+          "LOCATION": "8th Ave. between Dandurand St. and Masson St. (parking #75)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Sauf places réservées\nRestriction de 21h à 7h",
+          "NOTE_EN": "Except reserved spaces\nRestriction from 9:00 pm to 7:00 am",
+          "TYPE_PAY": 0,
+          "Latitude": 45.549649,
+          "Longitude": -73.574677
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.574677453641897,
+            45.549649452087387
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 28,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 100,
+          "X": 296600.0,
+          "Y": 5044226.0195971997,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Boyer entre la rue Beaubien et la rue Saint-Zotique (#24)",
+          "LOCATION": "Boyer St. between Beaubien St. and Saint-Zotique St. (parking #24)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Sauf places réservées\nRestriction de 21h à 7h",
+          "NOTE_EN": "Except reserved spaces\nRestriction from 9:00 pm to 7:00 am",
+          "TYPE_PAY": 0,
+          "Latitude": 45.537901,
+          "Longitude": -73.604997
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.604996559969578,
+            45.53790127371002
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 35,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 19,
+          "X": 296976.0,
+          "Y": 5043948.0227583004,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Saint-André, entre la rue Beaubien Est et la rue Bellechasse (#302)",
+          "LOCATION": "Saint-André St. between Beaubien St. E and Bellechasse St. (#302)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Sauf places réservées\nRestriction de 21h à 7h",
+          "NOTE_EN": "Except reserved spaces\nRestriction from 9:00 pm to 7:00 am",
+          "TYPE_PAY": 0,
+          "Latitude": 45.535404,
+          "Longitude": -73.600178
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.600177649301827,
+            45.535404080856324
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 39,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 326,
+          "X": 300503.0,
+          "Y": 5046378.0173597001,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "4101, rue Sherbrooke Est (P1). Jardin botanique.",
+          "LOCATION": "4101, Sherbrooke St. E (P1).  Jardin botanique.",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.557301,
+          "Longitude": -73.55504
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.555039687335793,
+            45.557300717450438
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 166,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 265,
+          "X": 300255.0,
+          "Y": 5046869.0,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "4581, rue Sherbrooke Est (P2). Insectarium.",
+          "LOCATION": "4581, Sherbrooke St. E (P2). Insectarium.",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.561717,
+          "Longitude": -73.558221
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.558220846579758,
+            45.561717169673273
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 47,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 45,
+          "X": 296053.0,
+          "Y": 5044554.0212637996,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Saint-André entre la rue Jean-Talon et la rue Bélanger (#191)",
+          "LOCATION": "Saint-André St. between Jean-Talon St.  and Bélanger St. (#191)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "restriction de 21h à 7h",
+          "NOTE_EN": "Restriction from 9:00 pm to 7:00 am",
+          "TYPE_PAY": 0,
+          "Latitude": 45.540846,
+          "Longitude": -73.612006
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.612006445658608,
+            45.540846096955399
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 159,
+          "ARRONDISSEMENT": "Rosemont - La Petite-Patrie",
+          "BOROUGH": "Rosemont - La Petite-Patrie",
+          "NBR_PLA": 17,
+          "X": 298917.6,
+          "Y": 5045408.69,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "6e avenue (C/E), entre les rues Dandurand et Masson (#73)",
+          "LOCATION": "6th Ave. between Daudurand and Masson St. (#73)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Côté sud seulement - Section horaire",
+          "NOTE_EN": "South side only",
+          "TYPE_PAY": 0,
+          "Latitude": 45.548567,
+          "Longitude": -73.575335
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.575335190086918,
+            45.548566787762113
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 137,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 25,
+          "X": 287091.29,
+          "Y": 5041962.69,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Noël-Nord, 3110, boulevard Toupin",
+          "LOCATION": "Noël-Nord Park, 3110 Toupin Blvd",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.517358,
+          "Longitude": -73.726668
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.726667927503982,
+            45.517358315746549
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 138,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 16,
+          "X": 287002.0,
+          "Y": 5041748.04,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Noël-Sud, 3005, rue Matis",
+          "LOCATION": "Noël-Sud Park, 3005 Matis St",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.515425,
+          "Longitude": -73.727803
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.727803018953225,
+            45.515424548992414
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 139,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 11,
+          "X": 290876.38,
+          "Y": 5042223.23,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Beaulac, 1145, rue Elizabeth",
+          "LOCATION": "Beaulac Park, 1145 Elizabeth St",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.519789,
+          "Longitude": -73.678227
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.678227205982367,
+            45.51978860972347
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 140,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 19,
+          "X": 290299.17,
+          "Y": 5043119.58,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Saint-Laurent, 845, rue Poirier",
+          "LOCATION": "Saint-Laurent Park, 845 Poirier St",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.527843,
+          "Longitude": -73.685642
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.685642183611563,
+            45.527842514282142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 141,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 180,
+          "X": 289032.14,
+          "Y": 5040828.64,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Complexe sportif, 2385, boulevard Thimens",
+          "LOCATION": "Complexe sportif, 2385 Thimens Blvd",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.5072,
+          "Longitude": -73.701789
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.701789131842759,
+            45.507200318831579
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 142,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 80,
+          "X": 289952.6,
+          "Y": 5041582.64,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Centre des loisirs, 1375, rue Grenet",
+          "LOCATION": "Centre des loisirs, 1375 Grenet St",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.514005,
+          "Longitude": -73.690032
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.690032446382517,
+            45.514005290018105
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 143,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 70,
+          "X": 290549.77,
+          "Y": 5040859.65,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Mairie d'arrondissement, 777, boulevard Marcel-Laurin",
+          "LOCATION": "City Hall, 777 Marcel-Laurin Blvd",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.507512,
+          "Longitude": -73.682368
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.682368272751731,
+            45.507512016022794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 144,
+          "ARRONDISSEMENT": "Saint-Laurent",
+          "BOROUGH": "Saint-Laurent",
+          "NBR_PLA": 30,
+          "X": 290544.55,
+          "Y": 5043196.19,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "1694, boulevard Jules-Poitras (terrain)",
+          "LOCATION": "1694 Jules-Poitras Blvd (lot)",
+          "HEURES": "24h",
+          "HOURS": "24h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.528537,
+          "Longitude": -73.682503
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.682503031052775,
+            45.528536939407729
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 14,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 40,
+          "X": 298370.05,
+          "Y": 5050398.0,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Jarry (côté sud, à l'ouest du boul. Langelier)",
+          "LOCATION": "Jarry St ( South side, West of Langelier Blvd)",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.593457,
+          "Longitude": -73.582413
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.58241322407045,
+            45.593457323085239
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 15,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 84,
+          "X": 297474.0,
+          "Y": 5049141.0141102998,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Jarry Est (côté nord) à l'ouest de la rue du Cap",
+          "LOCATION": "Jarry St (North side, West of Du Cap St)",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.582138,
+          "Longitude": -73.593879
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.59387910317156,
+            45.582137744480534
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 16,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 32,
+          "X": 298232.0,
+          "Y": 5048974.0179879004,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Ladauversière, entrée par la rue de Lisieux",
+          "LOCATION": "Ladauversière Park, entrance by De Lisieux St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.580643,
+          "Longitude": -73.584163
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.584163470253174,
+            45.580642633210879
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 18,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 100,
+          "X": 297318.0,
+          "Y": 5049643.0225761998,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Wilfrid-Bastien, entrée par le boul. Lacordaire entre des Galets et boul. Robert",
+          "LOCATION": "Wilfrid-Bastien Park, entrance by Lacordaire Blvd between Des Galets and Robert",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.586653,
+          "Longitude": -73.595886
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.595885853792581,
+            45.586653301410266
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 19,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 50,
+          "X": 298268.72,
+          "Y": 5049105.88,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Ladauversière, 7560, boulevard Lacordaire",
+          "LOCATION": "Ladauversière Park, 7560 Lacordaire Blvd",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.58183,
+          "Longitude": -73.583695
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.583694697344768,
+            45.581829512442184
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 20,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 31,
+          "X": 296476.21,
+          "Y": 5050002.1,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Pie-XII, entrée par le boulevard Lavoisier entre la rue Daillon et la rue Jean-Marie-Lefebvre",
+          "LOCATION": "Pie-XII Park, entrance by Lavoisier Blvd, between Daillon St and Jean-Marie-Lefebvre St ",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.589875,
+          "Longitude": -73.60668
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.606679947910223,
+            45.589874816296181
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 21,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 16,
+          "X": 296223.69,
+          "Y": 5049286.04,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Coubertin, 4755, rue Valéry",
+          "LOCATION": "Coubertin Park, 4755 Valéry St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.583428,
+          "Longitude": -73.609904
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.609903732338807,
+            45.583428438856551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 22,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 9,
+          "X": 298323.0,
+          "Y": 5049963.0234703999,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "6025, boul. Métropolitain Est,  entre les rues de la Salette et Louis-Vanier",
+          "LOCATION": "6025 Métropolitain Blvd East, between de la Salette St and Louis-Vanier St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.589543,
+          "Longitude": -73.58301
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.583010497184929,
+            45.589542845477659
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 23,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 91,
+          "X": 298243.0,
+          "Y": 5049911.0184495999,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Voirie des travaux publics - Intersection boul. Métropolitain Est et rue Louis-Vanier",
+          "LOCATION": "Public works office, corner of Métroplitain Blvd and Louis-Vanier St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.589074,
+          "Longitude": -73.584035
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.584035093396508,
+            45.589074139905236
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 33,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 134,
+          "X": 297347.0,
+          "Y": 5048196.0228770999,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Roberto-Luongo (entrée par le boul. Métropolitain et par la rue Colbert)",
+          "LOCATION": "Roberto-Luongo Arena (entrance by Métroplitain blvd. and Colbert St.)",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.573633,
+          "Longitude": -73.595492
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.595492129353772,
+            45.573633081504553
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 34,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 16,
+          "X": 297025.85,
+          "Y": 5050748.54,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Ferland, 6020, boul. Lavoisier",
+          "LOCATION": "Ferland Park, 6020, Lavoisier blvd.",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.596598,
+          "Longitude": -73.599648
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.599647509862862,
+            45.596597848923146
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 40,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 45,
+          "X": 297596.0,
+          "Y": 5049373.0165088,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Maison Joseph-Gagnon, coin rue Jarry Est et boul. Lacordaire",
+          "LOCATION": "Maison Jospeh-Gagnon, corner of Jarry St. E  and Lacordaire blvd.",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.584227,
+          "Longitude": -73.592319
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.592319156526429,
+            45.584226643807824
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 41,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 32,
+          "X": 298270.0,
+          "Y": 5049948.0220221002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "7800, rue de la Salette, entrée par le boul. Métropolitain Est",
+          "LOCATION": "7800, rue de la Salette, entrance by Metropolitain blvd. E",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.589407,
+          "Longitude": -73.58369
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.58368955420228,
+            45.589407362591373
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 50,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 47,
+          "X": 299175.0,
+          "Y": 5049536.0222460004,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Giuseppe-Garibaldi, 7125, rue Liénart",
+          "LOCATION": "Giuseppe-Garibaldi Park, 7125  Liénart St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.585708,
+          "Longitude": -73.572086
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.572086189872294,
+            45.585707977543606
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 51,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 18,
+          "X": 297620.0,
+          "Y": 5047993.0232787002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Hébert, 7505, boulevard Povencher",
+          "LOCATION": "Hébert Park, 7505 Provencher Blvd.",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.571809,
+          "Longitude": -73.591991
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.591991318506629,
+            45.571809298837572
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 52,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 619,
+          "X": 297150.0,
+          "Y": 5049466.0154871996,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Mairie d'arrondissement, 8400, boul. Lacordaire (entrée par la rue des Galets)",
+          "LOCATION": "City Hall, 8400, Lacordaire Blvd (entrance by Galets St.)",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.585059,
+          "Longitude": -73.598036
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.598036088502653,
+            45.585058713579876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 53,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 12,
+          "X": 296671.0,
+          "Y": 5048795.0207067002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Luigi-Pirendello, 4550, rue de Compiègne",
+          "LOCATION": "Luigi-Pirendello Park, 4550 Compiègne St. ",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.579015,
+          "Longitude": -73.604163
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.604163381632844,
+            45.579015474922087
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 54,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 12,
+          "X": 297875.0,
+          "Y": 5050241.0203093002,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Delorme, 6060, rue Péguy",
+          "LOCATION": "Delorme Park, 6060 Péguy St.",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.59204,
+          "Longitude": -73.588756
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.588756088656567,
+            45.592040022640624
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 162,
+          "ARRONDISSEMENT": "Saint-Léonard",
+          "BOROUGH": "Saint-Léonard",
+          "NBR_PLA": 14,
+          "X": 297030.93,
+          "Y": 5048862.59,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Arthur-Péloquin, au coin de la rue Jean-Rivard",
+          "LOCATION": "Arthur-Péloquin St., near Jean-Rivard St.",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.579628,
+          "Longitude": -73.599552
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.599552392169187,
+            45.579627595660185
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 118,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 30,
+          "X": 299960.44,
+          "Y": 5036274.69,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Chalet du parc Arthur-Therrien, 3750, boulevard Gaétan-Laberge",
+          "LOCATION": "Park chalet at Arthur-Therrien Park, 3750 Gaétan-Laberge Blvd",
+          "HEURES": "en tout temps-max 4h",
+          "HOURS": "at all time – max 4h",
+          "NOTE_FR": "en tout temps-max 4h",
+          "NOTE_EN": "at all time – max 4h",
+          "TYPE_PAY": 0,
+          "Latitude": 45.466383,
+          "Longitude": -73.56189
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.561889536556222,
+            45.46638326492775
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 119,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 104,
+          "X": 299870.83,
+          "Y": 5035224.51,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Richard, boulevard LaSalle, entrée située entre la 2e et la 3e avenues",
+          "LOCATION": "Richard Park, LaSalle Blvd, entrance between 2th Ave and 3th Ave",
+          "HEURES": "en tout temps-max 4h",
+          "HOURS": "at all time – max 4h",
+          "NOTE_FR": "en tout temps-max 4h",
+          "NOTE_EN": "at all time – max 4h",
+          "TYPE_PAY": 0,
+          "Latitude": 45.456933,
+          "Longitude": -73.563025
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.563024961738563,
+            45.456932603767072
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 120,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 100,
+          "X": 299673.85,
+          "Y": 5034875.96,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Quai, 5160, boulevard LaSalle",
+          "LOCATION": "Quai, 5160 LaSalle Blvd",
+          "HEURES": "en tout temps-max 4h",
+          "HOURS": "at all time – max 4h",
+          "NOTE_FR": "en tout temps-max 4h",
+          "NOTE_EN": "at all time – max 4h",
+          "TYPE_PAY": 0,
+          "Latitude": 45.453795,
+          "Longitude": -73.56554
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.565539936874245,
+            45.453794759252084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 121,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 41,
+          "X": 299765.22,
+          "Y": 5034946.85,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Desmarchais, 5160, boulevard LaSalle",
+          "LOCATION": "Desmarchais Park, 5160 LaSalle Blvd",
+          "HEURES": "18:00 à 09:00",
+          "HOURS": "6:00 pm to 9:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.454433,
+          "Longitude": -73.564372
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.564372460312626,
+            45.454433327362246
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 122,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 22,
+          "X": 299874.77,
+          "Y": 5035414.45,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "boulevard LaSalle, à l'est de la 1ere avenue - côté sud",
+          "LOCATION": "LaSalle Blvd East of 1st Ave – South side",
+          "HEURES": "en tout temps-max 8h",
+          "HOURS": "at all time – max 8h",
+          "NOTE_FR": "en tout temps-max 8h",
+          "NOTE_EN": "at all time – max 8h",
+          "TYPE_PAY": 0,
+          "Latitude": 45.458642,
+          "Longitude": -73.562976
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.562976487014168,
+            45.458641805961122
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 123,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 22,
+          "X": 299617.84,
+          "Y": 5036503.23,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "passage Albert-Denault",
+          "LOCATION": "Albert-Denault pass",
+          "HEURES": "en tout temps-max 24h",
+          "HOURS": "at all time – max 24h",
+          "NOTE_FR": "en tout temps-max 24h",
+          "NOTE_EN": "at all time – max 24h",
+          "TYPE_PAY": 0,
+          "Latitude": 45.468437,
+          "Longitude": -73.566273
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.566273200355852,
+            45.468437319870333
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 124,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 5,
+          "X": 298668.54,
+          "Y": 5034276.48,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Bibliothèque Jacqueline-De Repentigny (stat. à l'arrière, sur l'ave Brown)",
+          "LOCATION": "Jacqueline-De Repentigny Library (rear parking entrance by Brown Ave)",
+          "HEURES": "17:00 à 08:00",
+          "HOURS": "5:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.448392,
+          "Longitude": -73.578386
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.578385754976352,
+            45.448392238088957
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 127,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 29,
+          "X": 299358.29,
+          "Y": 5035518.32,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Willibrord (côté nord), entre la rue de Verdun et la rue Wellington",
+          "LOCATION": "Willibrord St (North side), between Verdun St and Wellington St",
+          "HEURES": "en tout temps-max 8h",
+          "HOURS": "at all time – max 8h",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.459573,
+          "Longitude": -73.569582
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.569581607002306,
+            45.459572647604254
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 126,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 61,
+          "X": 300041.73,
+          "Y": 5036620.59,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Arthur-Therrien - derrière l'école secondaire Mgr.-Richard",
+          "LOCATION": "Arthur-Therrien Park – behind Mgr. Richard High School",
+          "HEURES": "15:00 à 07:00",
+          "HOURS": "3:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.469496,
+          "Longitude": -73.560853
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.560853328836828,
+            45.4694963979153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 129,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 34,
+          "X": 298777.96,
+          "Y": 5035495.74,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Centre communautaire Marcel-Giroux, 4501, ave Bannantyne (accès par la rue Willibrord)",
+          "LOCATION": "Centre communautaire Marcel-Giroux, 4501 Bannantyne Ave (entrance by Willibrord St)",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.459365,
+          "Longitude": -73.577002
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.577001839623691,
+            45.45936470045006
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 128,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 39,
+          "X": 301363.43,
+          "Y": 5035951.8,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc De La Fontaine, accès par la Place de la Fontaine",
+          "LOCATION": "De La Fontaine Park, entrance by Place de la Fontaine",
+          "HEURES": "en tout temps-max 24h",
+          "HOURS": "at all time – max 24h",
+          "NOTE_FR": "en tout temps-max 24h",
+          "NOTE_EN": "at all time – max 24",
+          "TYPE_PAY": 0,
+          "Latitude": 45.463486,
+          "Longitude": -73.543945
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.543945488851591,
+            45.463486055097313
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 117,
+          "ARRONDISSEMENT": "Verdun",
+          "BOROUGH": "Verdun",
+          "NBR_PLA": 53,
+          "X": 301150.66,
+          "Y": 5035231.12,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Rue Edgar, près du #260",
+          "LOCATION": "Edgar St, near #260",
+          "HEURES": "18:00 à 08:00",
+          "HOURS": "6:00 pm to 8:00 am",
+          "NOTE_FR": "3h maximum entre 8h-18h",
+          "NOTE_EN": "Maximum of 3h between 8 am and 6 pm",
+          "TYPE_PAY": 0,
+          "Latitude": 45.457,
+          "Longitude": -73.546661
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.546660956574158,
+            45.456999940578974
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 45,
+          "ARRONDISSEMENT": "Ville-Marie",
+          "BOROUGH": "Ville-Marie",
+          "NBR_PLA": 36,
+          "X": 299910.0,
+          "Y": 5039651.0179083999,
+          "JURIDICTION": "Agence mobilité durable",
+          "EMPLACEMENT": "Rue Notre-Dame entre la rue De l'Inspecteur et la rue De la Cathédrale (#207)",
+          "LOCATION": "Notre-Dame St. between De l'Inspecteur St and De la Cathédrale St. (#207)",
+          "HEURES": "21:00 à 07:00",
+          "HOURS": "9:00 pm to 7:00 am",
+          "NOTE_FR": "Côté ouest seulement.\nSection horaire",
+          "NOTE_EN": "West side only. \nHourly spaces",
+          "TYPE_PAY": 0,
+          "Latitude": 45.496765,
+          "Longitude": -73.562568
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.56256819537893,
+            45.496764661382571
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 133,
+          "ARRONDISSEMENT": "Villeray-Saint-Michel-Parc-Extension",
+          "BOROUGH": "Villeray-Saint-Michel-Parc-Extension",
+          "NBR_PLA": 100,
+          "X": 296521.78,
+          "Y": 5047234.12,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Aréna Saint-Michel, 3440, rue Jarry Est (stat. arrière)",
+          "LOCATION": "Saint-Michel Arena, 3440 Jarry St East (rear parking)",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.564968,
+          "Longitude": -73.606049
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.606049016475055,
+            45.56496825369836
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 134,
+          "ARRONDISSEMENT": "Villeray-Saint-Michel-Parc-Extension",
+          "BOROUGH": "Villeray-Saint-Michel-Parc-Extension",
+          "NBR_PLA": 75,
+          "X": 295246.36,
+          "Y": 5045419.25,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Centre sportif Jean-Rougeau, 8000 rue de Normanville",
+          "LOCATION": "Centre sportif Jean-Rougeau, 8000 de Normanville St",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.548621,
+          "Longitude": -73.622352
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.622352438610108,
+            45.548621127895125
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 154,
+          "ARRONDISSEMENT": "Villeray-Saint-Michel-Parc-Extension",
+          "BOROUGH": "Villeray-Saint-Michel-Parc-Extension",
+          "NBR_PLA": 100,
+          "X": 294519.63,
+          "Y": 5044012.55,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "Parc Jarry - coin de l'avenue de l'Esplanade et la rue Jarry Ouest",
+          "LOCATION": "Jarry Park-  de l'Esplanade Ave and Jarry St West",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.535953,
+          "Longitude": -73.63163
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.631630025983995,
+            45.53595280920571
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "ID_STA": 167,
+          "ARRONDISSEMENT": "Villeray-Saint-Michel-Parc-Extension",
+          "BOROUGH": "Villeray-Saint-Michel-Parc-Extension",
+          "NBR_PLA": 20,
+          "X": 295584.79,
+          "Y": 5047057.78,
+          "JURIDICTION": "Municipale",
+          "EMPLACEMENT": "parc Julie-Hamelin - 40 rue Deville",
+          "LOCATION": "Julie-Hamelin Park – 40 Deville St.",
+          "HEURES": "18:00 à 07:00",
+          "HOURS": "6:00 pm to 7:00 am",
+          "NOTE_FR": null,
+          "NOTE_EN": null,
+          "TYPE_PAY": 0,
+          "Latitude": 45.56337,
+          "Longitude": -73.618049
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.618049078635451,
+            45.563369717202619
+          ]
+        }
+      }
+    ]
+  }
+}
