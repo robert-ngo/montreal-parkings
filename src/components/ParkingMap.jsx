@@ -11,14 +11,12 @@ const URL = 'http://localhost:3000/stationnements';
 
 function ParkingMap() {
   const {
-    isLoading, error, data,
+    isLoading, error,
   } = useQuery(['stationnements'], () => axios.get(URL).then((res) => res.data));
 
   if (isLoading) return 'Loading...';
 
   if (error) return `An error has occured: ${error.message}`;
-
-  console.log(data);
 
   return (
     <Map />
