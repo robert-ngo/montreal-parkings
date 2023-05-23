@@ -5,7 +5,11 @@ import ParkingMap from './components/ParkingMap';
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
 function App() {
   return (
-    <ParkingMap />
+    <>
+      <h1>Stationnements gratuits et payants (déneigement)</h1>
+      <ParkingMap />
+    </>
+
   );
 }
 
