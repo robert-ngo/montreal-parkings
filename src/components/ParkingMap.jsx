@@ -9,6 +9,8 @@ const BASE_ENDPOINT = 'https://montreal-parking.s3.ca-central-1.amazonaws.com';
 const ENDPOINT_STATIONNEMENTS = `${BASE_ENDPOINT}/stationnements_h_2022_2023.geojson`;
 const ENDPOINT_LIMADMIN = `${BASE_ENDPOINT}/limadmin.geojson`;
 
+const MAP_STYLE = 'mapbox://styles/mapbox/streets-v9';
+
 function ParkingMap() {
   const [pins, setPins] = useState([]);
   const [popupInfo, setPopupInfo] = useState(null);
@@ -60,11 +62,11 @@ function ParkingMap() {
   return (
     <Map
       initialViewState={{
-        latitude: 45.509171,
-        longitude: -73.553062,
-        zoom: 12,
+        latitude: 45.542861,
+        longitude: -73.631253,
+        zoom: 10,
       }}
-      mapStyle="mapbox://styles/mapbox/streets-v9"
+      mapStyle={MAP_STYLE}
       mapboxAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
       style={{ height: 600 }}
       interactiveLayerIds={['neighbors']}
