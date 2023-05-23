@@ -16,19 +16,6 @@ function ParkingMap() {
   const [popupInfo, setPopupInfo] = useState(null);
 
   const [neighbors, setNeighbors] = useState([]);
-  const [hoverInfo, setHoverInfo] = useState(null);
-
-  const onHover = useCallback((event) => {
-    const {
-      features,
-      point: { x, y },
-    } = event;
-
-    const hoveredFeature = features && features[0];
-
-    // prettier-ignore
-    setHoverInfo(hoveredFeature && { feature: hoveredFeature, x, y });
-  }, []);
 
   useEffect(() => {
     fetch(ENDPOINT_STATIONNEMENTS)
@@ -69,8 +56,6 @@ function ParkingMap() {
       mapStyle={MAP_STYLE}
       mapboxAccessToken={process.env.REACT_APP_MAPBOX_ACCESS_TOKEN}
       style={{ height: 600 }}
-      interactiveLayerIds={['neighbors']}
-      onMouseMove={onHover}
     >
       <Source type="geojson" data={neighbors}>
         <Layer
@@ -86,11 +71,6 @@ function ParkingMap() {
           }}
         />
       </Source>
-      {hoverInfo && (
-        <div className="toolTip">
-          <div>{hoverInfo.properties.NOM}</div>
-        </div>
-      )}
 
       {pins}
 
