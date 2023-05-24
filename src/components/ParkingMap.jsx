@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback } from 'react';
+import React, { useEffect, useState } from 'react';
 import Map, {
   Source, Layer, Marker, Popup,
 } from 'react-map-gl';
