@@ -19,6 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "lint": "eslint --fix --ext .js,.jsx .",
     "server": "json-server --watch data/stationnements_h_2022_2023.json"
   },
   "eslintConfig": {
