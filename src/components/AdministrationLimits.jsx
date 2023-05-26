@@ -4,7 +4,7 @@ import {
 } from 'react-map-gl';
 
 const BASE_ENDPOINT = 'https://montreal-parking.s3.ca-central-1.amazonaws.com';
-const ENDPOINT_LIMADMIN = `${BASE_ENDPOINT}/limadmin.geojson`;
+const ENDPOINT_LIMADMIN = `${BASE_ENDPOINT}/limadmin.json`;
 
 function AdministrationLimits() {
   const [neighbors, setNeighbors] = useState([]);

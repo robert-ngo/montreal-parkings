@@ -8,7 +8,7 @@ import AdministrationLimits from './AdministrationLimits';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 const BASE_ENDPOINT = 'https://montreal-parking.s3.ca-central-1.amazonaws.com';
-const ENDPOINT_STATIONNEMENTS = `${BASE_ENDPOINT}/stationnements_h_2022_2023.geojson`;
+const ENDPOINT_STATIONNEMENTS = `${BASE_ENDPOINT}/stationnements_h_2022_2023.json`;
 
 const MAP_STYLE = 'mapbox://styles/mapbox/streets-v9';
 
