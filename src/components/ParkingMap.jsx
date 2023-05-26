@@ -16,8 +16,6 @@ function ParkingMap() {
   const [pins, setPins] = useState([]);
   const [popupInfo, setPopupInfo] = useState(null);
 
-  // const [neighbors, setNeighbors] = useState([]);
-
   useEffect(() => {
     fetch(ENDPOINT_STATIONNEMENTS)
       .then((resp) => resp.json())
@@ -58,7 +56,10 @@ function ParkingMap() {
 
       {popupInfo && (
         <Popup longitude={popupInfo.Longitude} latitude={popupInfo.Latitude} anchor="top" onClose={() => setPopupInfo(null)}>
-          <div>{ popupInfo.EMPLACEMENT }</div>
+          <h4><strong>{ popupInfo.EMPLACEMENT }</strong></h4>
+          <div>{`Borough: ${popupInfo.BOROUGH}`}</div>
+          <div>{`Type pay: ${popupInfo.TYPE_PAY === 0 ? 'Gratuit' : 'Payant'}`}</div>
+          <div>{`Heures: ${popupInfo.HEURES}`}</div>
         </Popup>
       )}
 
